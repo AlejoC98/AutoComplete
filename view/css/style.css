@@ -1,0 +1,18 @@
+.main {
+	padding: 50px 0 0 0;
+}
+
+.mensajes {
+	width: 400px;
+	height: 100px;
+	margin: 40px 0 0 40%;
+	background-color: #D90303;
+	display: none;
+	padding: 30px;
+	border-radius: 10px;
+}
+
+.mensajes p {
+	color: #fff;
+	font-size: 30px;
+}
